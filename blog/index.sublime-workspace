@@ -1,0 +1,816 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ani",
+				"animation-delay"
+			],
+			[
+				"in",
+				"inset"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"men",
+				"mensaje"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"ini",
+				"infinite"
+			],
+			[
+				"anima",
+				"animation-iteration-count"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"tras",
+				"transition"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"sobre",
+				"sobreMi"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"con",
+				"controls"
+			],
+			[
+				"s",
+				"simdif"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"colum",
+				"column-rule"
+			],
+			[
+				"colu",
+				"column-gap"
+			],
+			[
+				"col",
+				"column-count"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"wo",
+				"word-wrap"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"mt",
+				"meta\tTag"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"pesta",
+				"pestana2"
+			],
+			[
+				"pes",
+				"pestana1"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"mouse",
+				"mouseout"
+			],
+			[
+				"mouseo",
+				"mouseover"
+			],
+			[
+				"boto",
+				"boton1"
+			],
+			[
+				"font-he",
+				"font-weight"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"boton",
+				"boton2"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"wa",
+				"watch-listen-link"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"main",
+				"main-article-image"
+			],
+			[
+				"menu",
+				"menu-bar"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"arra",
+				"array2"
+			],
+			[
+				"si",
+				"sizeof"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"p",
+				"paginaForecast"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"mensa",
+				"mensajeExito"
+			],
+			[
+				"emai",
+				"emailA"
+			],
+			[
+				"conte",
+				"contenido"
+			],
+			[
+				"filter_",
+				"filter_var"
+			],
+			[
+				"es",
+				"esConocido"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"mi",
+				"miArray"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"nombre",
+				"nombre2"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"data",
+				"data-toggle"
+			],
+			[
+				"my",
+				"myModalLabel"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"t",
+				"th\tTag"
+			],
+			[
+				"exam",
+				"exampleInputFile"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"navbar",
+				"navbar-light"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"ja",
+				"javascriptPanel"
+			],
+			[
+				"act",
+				"actualizarSalida"
+			],
+			[
+				"css",
+				"cssPanel"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"panel",
+				"panelId"
+			],
+			[
+				"ht",
+				"htmlPanel"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"cuadra",
+				"cuadradorojo"
+			],
+			[
+				"cuad",
+				"cuadradoazul"
+			],
+			[
+				"cua",
+				"cuadradorojo"
+			],
+			[
+				"confirm",
+				"confirmarPass"
+			],
+			[
+				"E",
+				"Email"
+			],
+			[
+				"cam",
+				"campoVacio"
+			],
+			[
+				"ca",
+				"campoVacio"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fade",
+				"fadeOutboton"
+			],
+			[
+				"colo",
+				"colorAleatorio"
+			],
+			[
+				"o",
+				"obtenerColorAleatorio"
+			],
+			[
+				"apa",
+				"aparecerFormaDespuesRetraso"
+			],
+			[
+				"apae",
+				"aparecerForma"
+			],
+			[
+				"nu",
+				"numeroDedos"
+			],
+			[
+				"numer",
+				"numeroIntentos"
+			],
+			[
+				"nume",
+				"numeroIntentos"
+			],
+			[
+				"tweet",
+				"tweetDiv"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/Diplomado en Programación/Practica Html5 y Css3/proyecto/blog"
+	],
+	"file_history":
+	[
+		"/G/Diplomado en Programación/Practica Html5 y Css3/cssflexbox",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/proyecto/blog/php/enviamail.php",
+		"/C/xampp/htdocs/proyecto el tiempo/index.php",
+		"/C/xampp/htdocs/blog/php/enviamail.php",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/proyecto/webconanimaciones/index.html",
+		"/C/Users/Miguel/Documents/elguevo.html",
+		"/G/Diplomado en Programación/logos y background/logo.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/proyecto/blog/index.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/proyecto/blog/css/estilo.css",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/proyecto/blog/contacto.html",
+		"/G/Diplomado en Programación/cursosvideo2brain/Programación/(video2brain) HTML5 Y CSS3/(video2brain) HTML5 Y CSS3/HTML5 Y CSS3/archivos_base/blog/index.html",
+		"/G/Diplomado en Programación/cursosvideo2brain/Programación/(video2brain) HTML5 Y CSS3/(video2brain) HTML5 Y CSS3/HTML5 Y CSS3/archivos_base/blog/css/estilo.css",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/proyecto/blog/manifiesto/manifiesto.cache",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/TRANSFORMAR2D-3.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/TRANSFORMAR2D.HTML",
+		"/G/Diplomado en Programación/cursosvideo2brain/Programación/(video2brain) HTML5 Y CSS3/(video2brain) HTML5 Y CSS3/HTML5 Y CSS3/archivos_base/blog/manifiesto/manifiesto.cache",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/proyecto/blog/noticias.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/proyecto/blog/sobremi.html",
+		"/G/Diplomado en Programación/cursosvideo2brain/Programación/(video2brain) HTML5 Y CSS3/(video2brain) HTML5 Y CSS3/HTML5 Y CSS3/archivos_base/blog/php/enviamail.php",
+		"/G/Diplomado en Programación/cursosvideo2brain/Programación/(video2brain) HTML5 Y CSS3/(video2brain) HTML5 Y CSS3/HTML5 Y CSS3/archivos_base/blog/noticias.html",
+		"/G/Diplomado en Programación/cursosvideo2brain/Programación/(video2brain) HTML5 Y CSS3/(video2brain) HTML5 Y CSS3/HTML5 Y CSS3/archivos_base/canvas/circulos.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/canvas.html",
+		"/G/Diplomado en Programación/Miprimera Web/1.1-html5/clase8.html",
+		"/G/Diplomado en Programación/Miprimera Web/1.1-html5/clase7.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/borderradius.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/shadow.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/fondo.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/centrodelfondo.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/multiplesimagenes.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/textshadow.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/wordwrap.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/fuentes.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/TRANSFORMAR2D-2.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/TRANSFORMAR2D-4.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/transition1.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/transition2.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/animation.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/animationmultiples.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/animation3.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/columnas.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/transparencia.html",
+		"/G/Diplomado en Programación/Practica Html5 y Css3/multiplesmargenes.html",
+		"/G/Diplomado en Programación/cursosvideo2brain/Programación/(Video2Brain) JQuery/archivos_base_jquery/archivos_base_jquery/proyectos/archivo",
+		"/G/Diplomado en Programación/Practica de Jquery/proyectos/login/index.html",
+		"/G/Diplomado en Programación/Practica Angular/angular1.html",
+		"/G/Diplomado en Programación/Practica Angular/angular2.html",
+		"/G/Diplomado en Programación/Practica Angular/angular3.html",
+		"/G/Diplomado en Programación/Practica Angular/databinding.html",
+		"/G/Diplomado en Programación/Practica Angular/base.css",
+		"/G/Diplomado en Programación/cursosvideo2brain/Programación/(Video2Brain) Curso.CSS.Desde.Cero/Clase01-Introduccion/clase-01-1/clase-01-1/introduccion.css",
+		"/G/Diplomado en Programación/cursosvideo2brain/Programación/(Video2Brain) Curso.CSS.Desde.Cero/Clase01-Introduccion/clase-01-1/clase-01-1/normalize.css",
+		"/G/Diplomado en Programación/cursosvideo2brain/Programación/(Video2Brain) Curso.CSS.Desde.Cero/Clase01-Introduccion/clase-01-1/clase-01-1/selectores.css",
+		"/G/Diplomado en Programación/cursosvideo2brain/Programación/(Video2Brain) Curso.CSS.Desde.Cero/Clase01-Introduccion/clase-01-2/clase-01-2/herencia-cascada.css",
+		"/G/Diplomado en Programación/Practica Bootstrap/bootstrap/css/style.css",
+		"/G/Diplomado en Programación/Practica Bootstrap/index.html",
+		"/G/Diplomado en Programación/Practica Bootstrap/sistemaderejillas.html",
+		"/G/Diplomado en Programación/Practica Bootstrap/clase1.html",
+		"/G/Diplomado en Programación/Miprimera Web/5.-bootstrap 4/clase5.html",
+		"/G/Diplomado en Programación/Miprimera Web/5.-bootstrap 4/clase1.html",
+		"/G/Diplomado en Programación/Practica de Jquery/proyectos/login/css/estilos.css",
+		"/G/Diplomado en Programación/Practica de Jquery/index.html",
+		"/G/Diplomado en Programación/Practica de Jquery/textatributos.html",
+		"/G/Diplomado en Programación/Practica de Jquery/text4.html",
+		"/G/Diplomado en Programación/Practica de Jquery/text3.html",
+		"/G/Diplomado en Programación/Practica de Jquery/xpath.html",
+		"/G/Diplomado en Programación/Practica de Jquery/dobleclick.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ponerhtml.html",
+		"/G/Diplomado en Programación/Practica de Jquery/clases.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/efecto9.html",
+		"/G/Diplomado en Programación/Practica de Jquery/codigo.js",
+		"/G/Diplomado en Programación/Practica de Jquery/tipo.html",
+		"/G/Diplomado en Programación/Practica de Jquery/xpath2buscadores.html",
+		"/G/Diplomado en Programación/Practica de Jquery/xpath3.html",
+		"/G/Diplomado en Programación/Practica de Jquery/text.html",
+		"/G/Diplomado en Programación/Practica de Jquery/mouseover.html",
+		"/G/Diplomado en Programación/Practica de Jquery/hover.html",
+		"/G/Diplomado en Programación/Practica de Jquery/mousemove.html",
+		"/G/Diplomado en Programación/Practica de Jquery/mouseUpymouseDown.html",
+		"/G/Diplomado en Programación/Practica de Jquery/foco.html",
+		"/G/Diplomado en Programación/Practica de Jquery/focoyblur.html",
+		"/G/Diplomado en Programación/Practica de Jquery/hideshow.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ocultardegradado.html",
+		"/G/Diplomado en Programación/Practica de Jquery/fadeto.html",
+		"/G/Diplomado en Programación/Practica de Jquery/toggle.html",
+		"/G/Diplomado en Programación/Practica de Jquery/slide.html",
+		"/G/Diplomado en Programación/Practica de Jquery/animate.html",
+		"/G/Diplomado en Programación/Practica de Jquery/load.html",
+		"/G/Diplomado en Programación/Practica de Jquery/colores.php",
+		"/G/Diplomado en Programación/Practica de Jquery/calculadora.html",
+		"/G/Diplomado en Programación/Practica de Jquery/calculadora.php",
+		"/G/Diplomado en Programación/Practica de Jquery/ajaxcompleto.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ajaxcompleto.php",
+		"/G/Diplomado en Programación/Practica de Jquery/callback.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/index.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/droppable.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/resizable.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/selectable.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/sortable.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/Acordeon.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/autocompletado.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/botonui.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/calendario.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/dialogo.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/barradeprogreso.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/slider.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/pestañas.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/efectos.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/efecto2.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/efecto3.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/efecto4.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/efecto5.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/efecto6.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/efecto7.html",
+		"/G/Diplomado en Programación/Practica de Jquery/ui/efecto8.html",
+		"/G/Diplomado en Programación/Practica de Jquery/text3",
+		"/G/Diplomado en Programación/Miprimera Web/4.-jquery/clase3.html",
+		"/G/Diplomado en Programación/Miprimera Web/4.-jquery/clase2.html",
+		"/G/Diplomado en Programación/Miprimera Web/4.-jquery/clase26.html",
+		"/G/Diplomado en Programación/libros/archivosHAcky reparacion de pc/Inyector/Inyector/style.css",
+		"/C/xampp/htdocs/Joomla/installation/configuration.php-dist",
+		"/C/xampp/htdocs/Joomla/htaccess.txt",
+		"/C/xampp/htdocs/Joomla/index.php",
+		"/G/Diplomado en Programación/Miprimera Web/2.-css/slider_responsive/slider.html",
+		"/G/Diplomado en Programación/Miprimera Web/2.-css/slider_responsive/css/demo.css",
+		"/G/Diplomado en Programación/Miprimera Web/2.-css/clase11.html",
+		"/G/Diplomado en Programación/Miprimera Web/2.-css/slider_responsive/css/demo.html.css",
+		"/G/Diplomado en Programación/Miprimera Web/2.-css/proyectobbc.html",
+		"/G/Diplomado en Programación/Miprimera Web/2.-css/webconestilo.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
